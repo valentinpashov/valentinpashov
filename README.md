@@ -3,6 +3,8 @@
 
 # 👋 Hi, I'm Valentin Pashov!
 
+I am a third-year Computer Science student at the Technical University of Sofia (German faculty). My experience is centered around Full-stack development, covering everything from building interactive user interfaces to managing server-side logic and database architecture. I am adaptable to diverse projects and ecosystems. I’m a big fan of writing clean code and I'm always down to learn something new. The tech world moves fast, and I love taking on fun challenges and building cool things along the way. 
+
 ---
 ### 🛠 Tech Stack & Tools
 
